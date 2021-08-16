@@ -1,2 +1,1 @@
-# developer-portfolio
 # dev-portfolio
